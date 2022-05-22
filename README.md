@@ -1,10 +1,11 @@
-# aren-t-you-a-programmer
+# aren't-you-a-programmer
 
-“怎么和程序员来往” 面向外行的指北
+English | [简体中文](i18n/zh_CN.md)
 
-1. 会糊代码不一定会黑客，也不一定会装机、会配机子
-2. 程序员不一定专精WPS，也不是什么软件都会用（不要问“你不是做这个的吗，微信怎么扫二维码啊/PS怎么加图层啊”）
-3. 不要因为你觉得编程枯燥就问“你做这个有什么意思，有什么用？”
-4. 不要问“你会做XX大型游戏不会”，我们很少是建模美工运维策划等等一个人全部能包下来的神仙
-5. 会糊代码不一定会准备数据集和炼丹，不要觉得所有程序员都会机器学习……（个人所专精领域）
-6. （限中国？）不要问“你怎么用的都是英语啊，中文不好吗？”，目前没有好用的，中文输入也比较难受…… 许多相应术语也没有很好的对应名词
+"How to deal with a programmer" Layman-oriented guidance
+
+1. people who can code don't necessarily know how to hack, or install or configure a operating system
+2. programmers don't necessarily specialise in Office software, nor do they know how to use everything (don't ask "didn't you study this, how to scan QR codes in Line / how to add layers in Photoshop")
+3. don't ask "what's the point of doing this, what's the use?" just because you think programming is boring
+4. don't ask "could you make a massive game?", we rarely know both of how to model, design, maintain, and plan, and even more rarely can do all of them alone
+5. do not think all programmers know machine learning
